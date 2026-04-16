@@ -1,36 +1,61 @@
-# Olá, sou Lavínia Carpim! 👋
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+Lav%C3%ADnia+Carpim!+%F0%9F%91%8B;Estudante+de+Dev+de+Sistemas;Apaixonada+por+tecnologia!+%F0%9F%9A%80" alt="Typing SVG" />
+
+</div>
+
+---
 
 ### 👩‍💻 Sobre mim
-- 🎓 Estudante de desenvolvimento de desenvolvimento de sistemas
+
+- 🎓 Estudante de **Desenvolvimento de Sistemas**
 - 📍 Sorocaba, SP — Brasil
-- 🌱 Atualmente aprendendo: **JavaScript** e **CSS**
-- 💼 Buscando oportunidades como dev front-end
-- ⚡ Curiosidade: adoro esportes!
+- 🌱 Aprendendo: **HTML • CSS • JavaScript**
+- 💼 Buscando meu primeiro **estágio em desenvolvimento**
 
 ---
 
 ### 🛠️ Tecnologias que uso
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 📌 Projetos em destaque
+### 🚀 Projetos em destaque
+
 | Projeto | Descrição | Tecnologia |
-|---------|-----------|------------|
-| [Cadastro de Dados](https://github.com/LaviniaCarpim/Cadastro-de-Dados) | 📝 Sistema de cadastro | CSS |
-| [Pesquisa de Esporte](https://github.com/LaviniaCarpim/Pesquisa-de-Esporte) | ⚽ Busca de esportes | JavaScript |
-| [Lista de itens de esporte](https://github.com/LaviniaCarpim/Lista-de-itens-de-esporte) | 🏆 Lista de itens | JavaScript |
+|--------|-----------|------------|
+| [📋 Cadastro de Dados](https://github.com/LaviniaCarpim/Cadastro-de-Dados) | Sistema de cadastro web | CSS |
+| [⚽ Pesquisa de Esporte](https://github.com/LaviniaCarpim/Pesquisa-de-Esporte) | Busca de informações esportivas | JavaScript |
+| [🏆 Lista de itens de esporte](https://github.com/LaviniaCarpim/Lista-de-itens-de-esporte) | Listagem dinâmica de itens | JavaScript |
 
 ---
 
-### 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LaviniaCarpim&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaviniaCarpim&layout=compact&theme=dark&hide_border=true)
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LaviniaCarpim&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LaviniaCarpim&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=LaviniaCarpim&theme=tokyonight&hide_border=true&locale=pt_BR)
+
+</div>
 
 ---
 
-### 📬 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lavínia-carpim-678733403)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lavinia.carpim068@email.com)
+### 📬 Me encontre por aqui
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lavínia-carpim-678733403)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lavinia.carpim068@email.com)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=LaviniaCarpim&color=58a6ff&style=flat&label=Visitas+ao+perfil" />
+</div>
