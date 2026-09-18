@@ -51,3 +51,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=LaviniaCarpim&color=2D2D3A&style=flat&label=Visitas+ao+perfil" />
 </div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D2D3A,100:D4899B&height=100&section=footer" />
+</div>
