@@ -4,7 +4,7 @@
 
 ---
 
-### 👩‍💻 Sobre mim
+###  Sobre mim
 
 - 🎀 Estudante de **Desenvolvimento de Sistemas**
 - 📍 Sorocaba, SP — Brasil
@@ -21,7 +21,7 @@
 
 ---
 
-### 🚀 Projetos em destaque
+###  Projetos em destaque
 
 <div align="center">
 
@@ -35,7 +35,7 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+###  Estatísticas do GitHub
 
 <div align="center">
 
@@ -49,7 +49,7 @@
 
 ---
 
-### 📬 Me encontre por aqui
+###  Me encontre por aqui
 
 <div align="center">
 
